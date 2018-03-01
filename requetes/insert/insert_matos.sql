@@ -1,0 +1,1 @@
+ INSERT INTO matos (idMatos,name,description)VALUES('1','routeur','routeur 4G wifi 8 ports rj 45'),('2','VM extra','machine virtuelle sur serveur distant'),('3','pc portable','PC Dell portable 8GO ram SSD 2To'),('4','projecteur HP',' projecteur video 1400*1900');
