@@ -1,0 +1,7 @@
+<?php if (isset($submitted)) {
+//form submit code here
+} else { ?>
+<form method="POST" action="<?php echo $SCRIPT_NAME ?>">
+
+<input type="submit" name="submitted" value="valider"></form>
+<?php } // end of form ?>
