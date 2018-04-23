@@ -1,5 +1,12 @@
 <?php
+/* aprés envoie par user du formulaire mail to user pour AR*/
+$to      = 'nobody@example.com';
+$subject = 'the subject';
+$message = 'hello';
+$headers = 'From: webmaster@example.com' . "\r\n" .
+    
 
+mail($to, $subject, $message, $headers);
 
 
 ?>
